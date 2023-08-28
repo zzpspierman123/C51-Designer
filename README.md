@@ -16,10 +16,10 @@
 <div>
 
 **AD的PCB设计：** 
-<div align=center><img width="400" height="300" src="https://github.com/zzpspierman123/C51-Designer/assets/104633510/6c2ce33e-ab22-4d63-9b38-39759afb13a4"/></div>
+<div align=center><img width="400" height="300" src="https://github.com/zzpspierman123/C51-Designer/assets/104633510/0713eb09-522a-49c3-b063-e1ef1d2d46ee"/></div>
 
 **实验室制版实物：** 
-<div align=center><img width="400" height="230" src="https://github.com/zzpspierman123/C51-Designer/assets/104633510/97db3e4c-97c6-4ca9-9391-ec74eb5b7367"/></div>
+<div align=center><img width="400" height="230" src="https://github.com/zzpspierman123/C51-Designer/assets/104633510/5460e541-3421-4aba-b8bc-7df239ec9cf6"/></div>
 
 ## 🛠Usage
 ***51_PCB设计.zip：*** 该文件存AD23版本的PCB和原理图设计文件。
