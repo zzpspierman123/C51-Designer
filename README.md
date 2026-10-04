@@ -28,7 +28,3 @@
 ***51_汇编代码.zip：*** 该文件存MDK keil5的汇编(.a51)文件。
 <div>
  
-### 👨🏻‍💻Maintainers
-####     Hi there 👋 I'm [ZhouZhanPeng](https://github.com/zzpspierman123)
-> A Sophomore Student in [HuaiHua University](http://www.hhtc.edu.cn/?affichelist-2)
-> 🌱 [@zzpspierman123](https://github.com/zzpspierman123)
